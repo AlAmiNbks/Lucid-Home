@@ -1,0 +1,226 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+a,a:hover{
+    text-decoration: none;
+}
+.header-section{
+    width: 100%;
+    background: url("../images/banar.png") center top no-repeat;
+    background-size: cover;
+}
+.header-section .bg-light{
+    background: transparent !important;}
+
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 600;
+        color: #fff;
+        margin: 0px 15px 0px 0px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+        background: url("../images/line.png") center bottom no-repeat;
+        background-size: auto;
+    }
+    
+.navbar-light .navbar-nav .nav-link.active{
+    background: url("../images/line.png") center bottom no-repeat;
+    background-size: auto;
+    color: #fff;
+    
+}
+.baner{
+    width: 100%;
+    padding: 80px 0px;
+}
+.banner .baner-inner{
+    width: 100%;
+    padding: 40px 0px;
+}
+.baner-inner h5{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #0287ca;
+    margin-bottom: 15px;
+
+}
+.baner-inner h2{
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 52px;
+    text-transform: uppercase;
+    color: #ffffff;
+
+}
+.baner-inner p{
+    width: 35%;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #999999;
+    margin-bottom: 30px;
+    margin-top: 10px;
+
+}
+.buton-group{
+    width: 100%;
+    padding: 30px 0px 30px 0px;
+    
+}
+.buton-group .btn-primary{
+    padding: 10px 15spx;
+    background: #0287ca;
+    color: #fff;
+    border: 1px solid #0287ca;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 15px;
+
+}
+.buton-group .btn-primary:hover, .buton-group .btn-primary:focus{
+    background: transparent;
+    color: #0287ca;
+    border: 1px solid #0287ca;
+
+}
+.buton-group .btn-info{
+    padding: 7px 17px;
+    background: transparent;   
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: 1px solid #999999;
+
+}
+.buton-group .btn-info:hover, .buton-group .btn-info:focus{
+    background: #0287ca;
+    color: #fff;
+    border: 1px solid #999999;
+
+}
+.product{
+    width: 100%;
+    padding: 80px 0px;
+}
+.product .title{
+    
+    text-align: center;
+}
+.title h6{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #0287ca;
+    margin-bottom: 15px;
+}
+
+.title h2{
+
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 42px;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.monitr{
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+.icon{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    margin: 0px auto 25px;
+    border: 1px solid #eee;
+    border-radius: 100%;
+}
+.monitr h2{
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    text-transform: capitalize;
+    color: #000;
+}
+.monitr p{
+   
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #999999;
+}
+.iphn{
+    width: 100%;
+    padding: 80px 0px;
+    border-top: 1px solid #313040;
+}
+.about-long{
+   width: 100%;
+   padding: 40px 0px;
+
+}
+.about-long .title{
+    
+    padding: 0px 0px 15pxs;
+}
+
+.about-long p{
+    width: 65%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    color: #999999;
+}
+.about-long ul{
+    width: 100%;
+    padding: 0px;
+    margin: 30px 0px 0px;
+}
+
+.about-long ul li{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+}
+.about-long ul li img{
+    margin-right: 10px;
+}
+.super{
+    width: 100%;
+    padding: 80px 0px;
+}
+.super p{
+    width: 65%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    color: #999999;
+}
+
+
+
+
